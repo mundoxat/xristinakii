@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Christina"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨“CONFIDENCE IS THE BEST OUTFIT”"
+                    children: "✨Failure is not falling down, but refusing to get up."
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
@@ -9748,10 +9748,11 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "EN"
-                        })]
+                        children: "GR"
+							
+							     })]
                     }), p.jsxs("a", {
-                        href: "https://xat.com/Trade",
+                        href: "https://mundoxat.github.io/xristinakii/indexradio.html",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
@@ -9759,7 +9760,55 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Trade"
+                            children: "Packets"
+                       
+                        })]
+						   }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexgifs.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets GIF"
+                       
+                        })]
+						   }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexpcback.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets PCback"
+                       
+                        })]
+						   }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexdj.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets PstyleGIF"
+                       
+                        })]
+                    }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexbgs.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets BGS/Players"
                         })]
                     })]
                 })]
@@ -9774,7 +9823,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "It's every time I look into your mirror-like eyes with desire that I kiss you and see myself declaring the end.🎶"
+                        children: "Sell Pachet video gif,sell gif,baground ,pv gif ,pstyle gif"
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",

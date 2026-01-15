@@ -9847,25 +9847,25 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://media.tenor.com/cb-inJNtsd4AAAAM/anime.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/zzd7dkq1lmQ4.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "Happy Anime Boy GIFs",
         isGif: !1
     }, {
         id: 2,
-        url: " https://media.tenor.com/MM3La2Dx0c4AAAAM/onimai-cute-anime-girl-smile-smiling.gif?auto=compress&cs=tinysrgb&w=800",
+        url: " https://xatimg.com/image/zzd7dkq1lmQ4.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "Happy Anime Girl GIFs",
         isGif: !0
     }, {
         id: 3,
-        url: "https://media.tenor.com/En4BFk4ihwgAAAAM/yay-yeah.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/mOk9p5Rfj2YG.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 3",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 4,
-        url: "https://i.pinimg.com/originals/83/92/ef/8392ef9be01706d092dd65efe3f7affe.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/CCElf7ufr8PM.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1

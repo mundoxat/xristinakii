@@ -9772,7 +9772,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Packets GIF"
+                            children: "GIFS"
                        
                         })]
 						   }), p.jsxs("a", {
@@ -9784,7 +9784,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Packets PCback"
+                            children: "PCbacks"
                        
                         })]
 						   }), p.jsxs("a", {
@@ -9796,7 +9796,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Packets PstyleGIF"
+                            children: "PstyleGIFS"
                        
                         })]
                     }), p.jsxs("a", {
@@ -9808,7 +9808,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Packets BGS/Players"
+                            children: "BGS/Players"
                         })]
                     })]
                 })]

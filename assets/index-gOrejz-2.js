@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Christina"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨“CONFIDENCE IS THE BEST OUTFIT”"
+                    children: "✨Failure is not falling down, but refusing to get up."
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
@@ -9823,7 +9823,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "It's every time I look into your mirror-like eyes with desire that I kiss you and see myself declaring the end.🎶"
+                        children: "Sell Pachet video gif......sell gif....baground .....pv gif ....pstyle gif "
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
@@ -9900,7 +9900,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10017,7 +10017,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })

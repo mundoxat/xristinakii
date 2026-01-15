@@ -9761,10 +9761,7 @@ function Kf() {
                         }), p.jsx("span", {
                             className: "text-white text-sm",
                             children: "Test 1"
-                        })]
-                    })]
-                })]
-							
+                       
                         })]
                     }), p.jsxs("a", {
                         href: "https://xat.com/Trade",

@@ -9748,11 +9748,11 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "EN"
+                            children: "GR"
 							
 							     })]
                     }), p.jsxs("a", {
-                        href: "https://xat.com/test",
+                        href: "https://mundoxat.github.io/xristinakii/indexradio.html",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
@@ -9760,11 +9760,47 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Test 1"
+                            children: "Packets"
+                       
+                        })]
+						   }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexgifs.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets GIF"
+                       
+                        })]
+						   }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexpcback.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets PCback"
+                       
+                        })]
+						   }), p.jsxs("a", {
+                        href: "https://mundoxat.github.io/xristinakii/indexdj.html",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
+                        children: [p.jsx(Wf, {
+                            className: "w-4 h-4 text-amber-400"
+                        }), p.jsx("span", {
+                            className: "text-white text-sm",
+                            children: "Packets PstyleGIF"
                        
                         })]
                     }), p.jsxs("a", {
-                        href: "https://xat.com/Trade",
+                        href: "https://mundoxat.github.io/xristinakii/indexbgs.html",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
@@ -9772,7 +9808,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Trade"
+                            children: "Packets BGS/Players"
                         })]
                     })]
                 })]

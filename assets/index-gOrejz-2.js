@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9900,7 +9900,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10017,7 +10017,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10042,7 +10042,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/cb-inJNtsd4AAAAM/anime.gif",
+                                    src: "https://xatimg.com/image/CklJ9X8T4Czt.jpg",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10051,7 +10051,7 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/89QSIUPhqBkAAAAM/anime-girl-happy.gif",
+                                    src: "https://xatimg.com/image/CklJ9X8T4Czt.jpg",
                                     alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10061,7 +10061,7 @@ function Jf() {
                             children: "🐾"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "Just live..."
+                            children: "Just loving..."
                         })]
                     })]
                 })

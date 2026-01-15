@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Christina"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨Failure is not falling down, but refusing to get up."
+                    children: "✨“CONFIDENCE IS THE BEST OUTFIT”"
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
@@ -9748,59 +9748,10 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "GR"
-							
-							     })]
-                    }), p.jsxs("a", {
-                        href: "https://mundoxat.github.io/xristinakii/indexradio.html",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
-                        children: [p.jsx(Wf, {
-                            className: "w-4 h-4 text-amber-400"
-                        }), p.jsx("span", {
-                            className: "text-white text-sm",
-                            children: "Packets"
-                       
-                        })]
-						   }), p.jsxs("a", {
-                        href: "https://mundoxat.github.io/xristinakii/indexgifs.html",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
-                        children: [p.jsx(Wf, {
-                            className: "w-4 h-4 text-amber-400"
-                        }), p.jsx("span", {
-                            className: "text-white text-sm",
-                            children: "Packets GIF"
-                       
-                        })]
-						   }), p.jsxs("a", {
-                        href: "https://mundoxat.github.io/xristinakii/indexpcback.html",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
-                        children: [p.jsx(Wf, {
-                            className: "w-4 h-4 text-amber-400"
-                        }), p.jsx("span", {
-                            className: "text-white text-sm",
-                            children: "Packets PCback"
-                       
-                        })]
-						   }), p.jsxs("a", {
-                        href: "https://mundoxat.github.io/xristinakii/indexdj.html",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
-                        children: [p.jsx(Wf, {
-                            className: "w-4 h-4 text-amber-400"
-                        }), p.jsx("span", {
-                            className: "text-white text-sm",
-                            children: "Packets PstyleGIF"
-                       
+                            children: "EN"
                         })]
                     }), p.jsxs("a", {
-                        href: "https://mundoxat.github.io/xristinakii/indexbgs.html",
+                        href: "https://xat.com/Trade",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
@@ -9808,7 +9759,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Packets BGS/Players"
+                            children: "Trade"
                         })]
                     })]
                 })]
@@ -9823,7 +9774,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "Sell Pachet video gif......sell gif....baground .....pv gif ....pstyle gif "
+                        children: "It's every time I look into your mirror-like eyes with desire that I kiss you and see myself declaring the end.🎶"
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
@@ -9900,7 +9851,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10017,7 +9968,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/4CoyYkFRTMlu.png",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10042,8 +9993,8 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/zzd7dkq1lmQ4.jpg",
-                                    alt: "ELA",
+                                    src: "https://media.tenor.com/cb-inJNtsd4AAAAM/anime.gif",
+                                    alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             }), p.jsx(tl, {
@@ -10051,17 +10002,17 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/CklJ9X8T4Czt.jpg",
-                                    alt: "ELE",
+                                    src: "https://media.tenor.com/89QSIUPhqBkAAAAM/anime-girl-happy.gif",
+                                    alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "❤️"
+                            children: "🐾"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: ""Where there is love, there is life.""
+                            children: "Just live..."
                         })]
                     })]
                 })
@@ -10250,7 +10201,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Log out"
+                                children: "Sair"
                             })]
                         })]
                     })

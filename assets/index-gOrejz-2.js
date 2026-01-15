@@ -10042,7 +10042,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/CklJ9X8T4Czt.jpg",
+                                    src: "https://xatimg.com/image/CCElf7ufr8PM.jpg",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })

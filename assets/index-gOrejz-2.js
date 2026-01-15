@@ -10042,8 +10042,8 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/cb-inJNtsd4AAAAM/anime.gif",
-                                    alt: "ELE",
+                                    src: "https://xatimg.com/image/zzd7dkq1lmQ4.jpg",
+                                    alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             }), p.jsx(tl, {
@@ -10051,17 +10051,17 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/89QSIUPhqBkAAAAM/anime-girl-happy.gif",
-                                    alt: "ELA",
+                                    src: "https://xatimg.com/image/CklJ9X8T4Czt.jpg",
+                                    alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "🐾"
+                            children: "❤️"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "Just live..."
+                            children: ""Where there is love, there is life.""
                         })]
                     })]
                 })
@@ -10250,7 +10250,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Sair"
+                                children: "Log out"
                             })]
                         })]
                     })

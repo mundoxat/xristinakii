@@ -10250,7 +10250,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Sair"
+                                children: "Log out"
                             })]
                         })]
                     })
